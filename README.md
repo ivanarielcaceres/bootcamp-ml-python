@@ -8,9 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-Install and run Jupyter notebook with python 3
+What things you need to install the software and how to install them.
 
+Install and run Jupyter notebook with python 3
 The requisites is defined in requirements.txt file
 
 ```
